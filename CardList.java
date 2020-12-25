@@ -1,3 +1,4 @@
+//@author: Yixin Liang 
 
 public class CardList {
 	
