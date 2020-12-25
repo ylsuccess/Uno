@@ -14,4 +14,8 @@ Game rules: Pick a card that is the same color or digit as the computer player's
  
 click "Deck:" until there is a fit.
 
-Card.java, Play.java, CardList.java and Gui.java are implemented to replace the original codes in uno_assignment.jar for the game to function. 
+Card.java, Play.java, CardList.java and Gui.java are implemented to replace the original codes in uno_assignment.jar
+
+for the game to function as shown.
+
+![uno_cap](https://user-images.githubusercontent.com/60535151/103128476-7eeb7980-4663-11eb-81fc-8af287d2c4c6.JPG)
