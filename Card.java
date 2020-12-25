@@ -1,4 +1,4 @@
-
+//@author: Yixin Liang
 
 public class Card {
 	
